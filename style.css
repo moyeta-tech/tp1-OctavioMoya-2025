@@ -66,3 +66,13 @@ b, #italic {
 .italic2 strong {
     color: red;
 }
+
+h3 {
+    font-family: "Roboto Mono", monospace;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: red
+}
