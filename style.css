@@ -46,7 +46,7 @@ img {
     margin-right: 40px;
 }
 
-b, i {
+b, #italic {
     color: green;
 }
 
@@ -61,4 +61,8 @@ b, i {
     margin-right: 50px;
     margin-top: 70px;
     margin-left: 50px;
+}
+
+.italic2 strong {
+    color: red;
 }
