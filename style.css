@@ -17,6 +17,11 @@ header {
     box-shadow: 0px 0px 15px 0px rgba(255, 254, 254, 0.548);
 }
 
+#titulo {
+    font-family: "Roboto Mono", monospace;
+    font-size: 50px;
+}
+
 .cuerpo {
     font-family: "Roboto Mono", monospace;
     color: white;
