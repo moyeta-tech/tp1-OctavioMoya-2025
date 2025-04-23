@@ -19,7 +19,7 @@ header {
 
 #titulo {
     font-family: "Roboto Mono", monospace;
-    font-size: 50px;
+    
 }
 
 .cuerpo {
@@ -44,3 +44,6 @@ img {
     margin-right: 40px;
 }
 
+b, i {
+    color: green;
+}
